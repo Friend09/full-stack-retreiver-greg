@@ -10,3 +10,6 @@ tiktoken
 bs4
 kor
 markdownify
+unstructured
+rank_bm25
+lark
