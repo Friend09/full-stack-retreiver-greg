@@ -14,3 +14,5 @@ unstructured
 rank_bm25
 lark
 numexpr
+wikipedia
+youtube-search
