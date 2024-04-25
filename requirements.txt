@@ -16,3 +16,5 @@ lark
 numexpr
 wikipedia
 youtube-search
+ragas
+xmltodict
