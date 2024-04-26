@@ -16,6 +16,7 @@ python-dotenv
 ragas
 rank_bm25
 tiktoken
+tqdm
 unstructured
 wandb
 wikipedia
